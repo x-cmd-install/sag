@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11121082,
       "digest": "sha256:d40034b62617d472078093ba5bf7307eb729d170412169e9d5fe6dac3834cef6",
-      "download_count": 18876,
+      "download_count": 18941,
       "created_at": "2026-07-01T10:44:05Z",
       "updated_at": "2026-07-01T10:44:06Z",
       "browser_download_url": "https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_darwin_universal.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5296352,
       "digest": "sha256:104bbbc6a54fea6d0405d458ebba24f7f14fc4c90c7871f207d7589eba6411d2",
-      "download_count": 9435,
+      "download_count": 9494,
       "created_at": "2026-07-01T10:44:05Z",
       "updated_at": "2026-07-01T10:44:06Z",
       "browser_download_url": "https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_linux_amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:0cd061da18009e5fc16a162fcf58d10ae8d989fb3b14fb3c654c324a0cef7dfe",
-      "download_count": 89,
+      "download_count": 90,
       "created_at": "2026-07-01T10:44:05Z",
       "updated_at": "2026-07-01T10:44:05Z",
       "browser_download_url": "https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_linux_amd64.tar.gz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4815092,
       "digest": "sha256:14495ba035efc1912f8cc6f562ce32a5dc7c9bcdaea0a12bf2d5b73002a3e5ba",
-      "download_count": 99,
+      "download_count": 100,
       "created_at": "2026-07-01T10:44:05Z",
       "updated_at": "2026-07-01T10:44:06Z",
       "browser_download_url": "https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_linux_arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:f23463d3c8d0a188e574e4781160d2fe7126493309684a0740d2971dc298cdf7",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-07-01T10:44:05Z",
       "updated_at": "2026-07-01T10:44:05Z",
       "browser_download_url": "https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_linux_arm64.tar.gz.sha256"
