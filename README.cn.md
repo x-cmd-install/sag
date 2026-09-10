@@ -4,13 +4,25 @@
 
 Like the macOS say command, but with a modern voice.
 
-![sag](https://repo.x-cmd.io/sag.svg)
+![sag](https://repo.x-cmd.io/sag.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install sag
 ```
+
+## 代码规模
+
+合计: **5,823** 行代码（覆盖前 5 种语言、共 **60** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 4,848 | 73 | 572 | 34 |
+| JavaScript | 816 | 0 | 32 | 2 |
+| Svg | 144 | 11 | 15 | 1 |
+| Json | 15 | 0 | 0 | 1 |
+| Markdown | 0 | 1,246 | 561 | 22 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install sag
 - **最新版本**: `v0.4.1` (2026-07-01)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 13 个
-- **发布时间**: 2026-07-01T09:24:36Z
 
 ## 流行度
 
@@ -38,20 +49,29 @@ x install sag
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-12 | 0 | 1 | 0 | 0 | 0 | 1 |
 | 90d | 2026-06-12 | 1 | 5 | 0 | 1 | 0 | 8 |
+| last180d | 2026-03-14 | 3 | 6 | 0 | 3 | 0 | 27 |
 | 360d | 2025-09-15 | 6 | 11 | 0 | 8 | 0 | 80 |
+| last720d | 2024-09-20 | 6 | 11 | 0 | 8 | 0 | 86 |
 
-## 代码规模
+## Release 资产
 
-合计: **5,823** 行代码（覆盖前 5 种语言、共 **60** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 4,848 | 73 | 572 | 34 |
-| JavaScript | 816 | 0 | 32 | 2 |
-| Svg | 144 | 11 | 15 | 1 |
-| Json | 15 | 0 | 0 | 1 |
-| Markdown | 0 | 1,246 | 561 | 22 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [sag_0.4.1_checksums.txt](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_checksums.txt) | 576 B | `other` |
+| [sag_0.4.1_darwin_amd64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_darwin_amd64.tar.gz) | 5.5 MiB | `native/darwin/x64` |
+| [sag_0.4.1_darwin_amd64.tar.gz.sha256](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_darwin_amd64.tar.gz.sha256) | 96 B | `native/darwin/x64` |
+| [sag_0.4.1_darwin_arm64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_darwin_arm64.tar.gz) | 5.2 MiB | `native/darwin/arm64` |
+| [sag_0.4.1_darwin_arm64.tar.gz.sha256](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_darwin_arm64.tar.gz.sha256) | 96 B | `native/darwin/arm64` |
+| [sag_0.4.1_darwin_universal.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_darwin_universal.tar.gz) | 10.6 MiB | `native/darwin/x64` |
+| [sag_0.4.1_darwin_universal.tar.gz.sha256](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_darwin_universal.tar.gz.sha256) | 100 B | `native/darwin/x64` |
+| [sag_0.4.1_linux_amd64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_linux_amd64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [sag_0.4.1_linux_amd64.tar.gz.sha256](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_linux_amd64.tar.gz.sha256) | 95 B | `native/linux/x64` |
+| [sag_0.4.1_linux_arm64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_linux_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [sag_0.4.1_linux_arm64.tar.gz.sha256](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_linux_arm64.tar.gz.sha256) | 95 B | `native/linux/arm64` |
+| [sag_0.4.1_windows_amd64.zip](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_windows_amd64.zip) | 5.5 MiB | `native/win/x64` |
+| [sag_0.4.1_windows_amd64.zip.sha256](https://github.com/steipete/sag/releases/download/v0.4.1/sag_0.4.1_windows_amd64.zip.sha256) | 94 B | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -62,4 +82,4 @@ sag 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:21:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:47:35Z._
