@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3013566,
       "digest": "sha256:7a24ed7cd2ee02d526226a846732089fa8239ca31a2a854aed21ad4686144bfb",
-      "download_count": 28,
+      "download_count": 39,
       "created_at": "2026-09-14T15:38:50Z",
       "updated_at": "2026-09-14T15:38:50Z",
       "browser_download_url": "https://github.com/steipete/sag/releases/download/v0.4.3/sag_0.4.3_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2757461,
       "digest": "sha256:7bce8158870fa0186dcce2caa2f9cdab0871b479e8c9261b51250c8623636f14",
-      "download_count": 672,
+      "download_count": 966,
       "created_at": "2026-09-14T15:38:50Z",
       "updated_at": "2026-09-14T15:38:51Z",
       "browser_download_url": "https://github.com/steipete/sag/releases/download/v0.4.3/sag_0.4.3_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2906934,
       "digest": "sha256:3d76ab25e42605261a84c0e0f86c5a83ab18e697d1b0a774528eb261030c4de2",
-      "download_count": 49,
+      "download_count": 174,
       "created_at": "2026-09-14T15:38:51Z",
       "updated_at": "2026-09-14T15:38:51Z",
       "browser_download_url": "https://github.com/steipete/sag/releases/download/v0.4.3/sag_0.4.3_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2629531,
       "digest": "sha256:176be4b6efd455f95d9ce3c4298000be96601c4d0d9769ad379131c8a509f5eb",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-09-14T15:38:51Z",
       "updated_at": "2026-09-14T15:38:52Z",
       "browser_download_url": "https://github.com/steipete/sag/releases/download/v0.4.3/sag_0.4.3_linux_arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 838,
       "digest": "sha256:5919391b999d5e43ecfcdb2fc6660316bd8297a7d71da8ecd9177f8022c8e6f2",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-09-14T15:38:49Z",
       "updated_at": "2026-09-14T15:38:49Z",
       "browser_download_url": "https://github.com/steipete/sag/releases/download/v0.4.3/SHA256SUMS"
