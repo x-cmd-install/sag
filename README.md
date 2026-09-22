@@ -38,7 +38,7 @@ Total: **5,990** lines of code across **43** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 579 · **Forks**: 60 · **Open issues**: 8 · **Contributors**: 5
+- **Stars**: 578 · **Forks**: 60 · **Open issues**: 8 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **5,990** lines of code across **43** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 5 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-23 | 2 | 5 | 0 | 0 | 0 | 7 |
-| 90d | 2026-06-23 | 3 | 8 | 0 | 0 | 0 | 11 |
-| last180d | 2026-03-25 | 5 | 10 | 0 | 2 | 0 | 33 |
-| 360d | 2025-09-26 | 8 | 15 | 0 | 8 | 0 | 86 |
-| last720d | 2024-10-01 | 8 | 15 | 0 | 8 | 0 | 92 |
+| 30d | 2026-08-23 | 2 | 5 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-24 | 2 | 5 | 0 | 0 | 0 | 7 |
+| 90d | 2026-06-24 | 3 | 8 | 0 | 0 | 0 | 11 |
+| last180d | 2026-03-26 | 5 | 10 | 0 | 2 | 0 | 33 |
+| 360d | 2025-09-27 | 8 | 15 | 0 | 8 | 0 | 86 |
+| last720d | 2024-10-02 | 8 | 15 | 0 | 8 | 0 | 92 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for sag lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:32:25Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:26:22Z._
