@@ -32,8 +32,8 @@ x install sag
 
 ## 发布
 
-- **最新版本**: `v0.4.3` (2026-09-14)
-- **最近提交**: 2026-10-19
+- **最新版本**: `v0.4.4` (2026-10-21)
+- **最近提交**: 2026-10-21
 - **Release 含资产**: 10 个
 
 ## 流行度
@@ -42,33 +42,33 @@ x install sag
 
 ## 累计统计
 
-- **发布数**: 8 · **已合并 PR**: 17 · **开放 PR**: 0 · **已关闭 issue**: 8 · **开放 issue**: 0 · **提交数**: 94
+- **发布数**: 9 · **已合并 PR**: 19 · **开放 PR**: 0 · **已关闭 issue**: 8 · **开放 issue**: 0 · **提交数**: 96
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-08-21 | 2 | 7 | 0 | 0 | 0 | 9 |
-| 90d | 2026-07-22 | 2 | 7 | 0 | 0 | 0 | 9 |
-| last180d | 2026-04-23 | 5 | 12 | 0 | 2 | 0 | 33 |
-| 360d | 2025-10-25 | 8 | 17 | 0 | 8 | 0 | 88 |
-| last720d | 2024-10-30 | 8 | 17 | 0 | 8 | 0 | 94 |
+| 30d | 2026-09-21 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-22 | 3 | 9 | 0 | 0 | 0 | 11 |
+| 90d | 2026-07-23 | 3 | 9 | 0 | 0 | 0 | 11 |
+| last180d | 2026-04-24 | 6 | 14 | 0 | 2 | 0 | 35 |
+| 360d | 2025-10-26 | 9 | 19 | 0 | 8 | 0 | 90 |
+| last720d | 2024-10-31 | 9 | 19 | 0 | 8 | 0 | 96 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ASSET-INVENTORY.json](https://github.com/steipete/sag/releases/download/v0.4.3/ASSET-INVENTORY.json) | 1.6 KiB | `other` |
-| [RELEASE-NOTES.md](https://github.com/steipete/sag/releases/download/v0.4.3/RELEASE-NOTES.md) | 684 B | `other` |
-| [sag_0.4.3_darwin_amd64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.3/sag_0.4.3_darwin_amd64.tar.gz) | 2.9 MiB | `native/darwin/x64` |
-| [sag_0.4.3_darwin_arm64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.3/sag_0.4.3_darwin_arm64.tar.gz) | 2.6 MiB | `native/darwin/arm64` |
-| [sag_0.4.3_linux_amd64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.3/sag_0.4.3_linux_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
-| [sag_0.4.3_linux_arm64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.3/sag_0.4.3_linux_arm64.tar.gz) | 2.5 MiB | `native/linux/arm64` |
-| [sag_0.4.3_universal_darwin_all.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.3/sag_0.4.3_universal_darwin_all.tar.gz) | 5.5 MiB | `native/darwin/x64` |
-| [sag_0.4.3_windows_amd64.zip](https://github.com/steipete/sag/releases/download/v0.4.3/sag_0.4.3_windows_amd64.zip) | 2.9 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/steipete/sag/releases/download/v0.4.3/SHA256SUMS) | 838 B | `other` |
-| [SIGNING-MANIFEST.json](https://github.com/steipete/sag/releases/download/v0.4.3/SIGNING-MANIFEST.json) | 1.7 KiB | `other` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/sag/releases/download/v0.4.4/ASSET-INVENTORY.json) | 1.6 KiB | `other` |
+| [RELEASE-NOTES.md](https://github.com/steipete/sag/releases/download/v0.4.4/RELEASE-NOTES.md) | 523 B | `other` |
+| [sag_0.4.4_darwin_amd64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.4/sag_0.4.4_darwin_amd64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
+| [sag_0.4.4_darwin_arm64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.4/sag_0.4.4_darwin_arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
+| [sag_0.4.4_linux_amd64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.4/sag_0.4.4_linux_amd64.tar.gz) | 3.1 MiB | `native/linux/x64` |
+| [sag_0.4.4_linux_arm64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.4/sag_0.4.4_linux_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
+| [sag_0.4.4_universal_darwin_all.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.4/sag_0.4.4_universal_darwin_all.tar.gz) | 6.1 MiB | `native/darwin/x64` |
+| [sag_0.4.4_windows_amd64.zip](https://github.com/steipete/sag/releases/download/v0.4.4/sag_0.4.4_windows_amd64.zip) | 3.2 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/steipete/sag/releases/download/v0.4.4/SHA256SUMS) | 838 B | `other` |
+| [SIGNING-MANIFEST.json](https://github.com/steipete/sag/releases/download/v0.4.4/SIGNING-MANIFEST.json) | 1.7 KiB | `other` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ sag 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:14:31Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:06:03Z._
