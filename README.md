@@ -48,12 +48,12 @@ Total: **6,101** lines of code across **44** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 7 | 4 | 0 | 0 | 7 |
-| last60d | 2026-09-09 | 4 | 11 | 4 | 0 | 0 | 7 |
-| 90d | 2026-08-10 | 4 | 12 | 4 | 0 | 0 | 14 |
-| last180d | 2026-05-12 | 6 | 17 | 4 | 1 | 0 | 29 |
-| 360d | 2025-11-13 | 10 | 22 | 4 | 8 | 0 | 93 |
-| last720d | 2024-11-18 | 10 | 22 | 4 | 8 | 0 | 99 |
+| 30d | 2026-10-10 | 2 | 7 | 4 | 0 | 0 | 7 |
+| last60d | 2026-09-10 | 4 | 11 | 4 | 0 | 0 | 7 |
+| 90d | 2026-08-11 | 4 | 12 | 4 | 0 | 0 | 14 |
+| last180d | 2026-05-13 | 6 | 17 | 4 | 1 | 0 | 29 |
+| 360d | 2025-11-14 | 10 | 22 | 4 | 8 | 0 | 93 |
+| last720d | 2024-11-19 | 10 | 22 | 4 | 8 | 0 | 99 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for sag lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:22:35Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:55:39Z._
