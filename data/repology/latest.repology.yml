@@ -3,7 +3,7 @@
   binname: sag
   visiblename: audio/sag
   version: 0.3.0
-  origversion: 0.3.0_8
+  origversion: 0.3.0_9
   status: untrusted
   summary: Mac-style speech synthesis using ElevenLabs
   maintainers:
