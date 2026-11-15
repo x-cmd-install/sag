@@ -14,14 +14,14 @@ x install sag
 
 ## Code insight
 
-Total: **6,101** lines of code across **44** files in the top 5 languages.
+Total: **6,191** lines of code across **44** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 4,959 | 74 | 581 | 35 |
+| Go | 5,049 | 75 | 590 | 35 |
 | JavaScript | 816 | 0 | 32 | 2 |
 | Svg | 144 | 11 | 15 | 1 |
-| Bash | 89 | 6 | 5 | 4 |
+| Bash | 89 | 8 | 5 | 4 |
 | Python | 78 | 2 | 11 | 2 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **6,101** lines of code across **44** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.5` (2026-10-24)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-14
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 585 · **Forks**: 64 · **Open issues**: 8 · **Contributors**: 6
+- **Stars**: 586 · **Forks**: 64 · **Open issues**: 8 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 22 · **Open PRs**: 4 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 99
+- **Releases**: 10 · **Merged PRs**: 23 · **Open PRs**: 1 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 100
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 7 | 4 | 0 | 0 | 7 |
-| last60d | 2026-09-15 | 2 | 7 | 4 | 0 | 0 | 7 |
-| 90d | 2026-08-16 | 4 | 12 | 4 | 0 | 0 | 14 |
-| last180d | 2026-05-18 | 6 | 17 | 4 | 1 | 0 | 29 |
-| 360d | 2025-11-19 | 10 | 22 | 4 | 8 | 0 | 93 |
-| last720d | 2024-11-24 | 10 | 22 | 4 | 8 | 0 | 99 |
+| 30d | 2026-10-16 | 2 | 8 | 1 | 0 | 0 | 8 |
+| last60d | 2026-09-16 | 2 | 8 | 1 | 0 | 0 | 8 |
+| 90d | 2026-08-17 | 4 | 13 | 1 | 0 | 0 | 15 |
+| last180d | 2026-05-19 | 6 | 18 | 1 | 1 | 0 | 30 |
+| 360d | 2025-11-20 | 10 | 23 | 1 | 8 | 0 | 94 |
+| last720d | 2024-11-25 | 10 | 23 | 1 | 8 | 0 | 100 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for sag lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:07:34Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:00:05Z._
