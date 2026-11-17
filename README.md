@@ -32,43 +32,43 @@ Total: **6,191** lines of code across **44** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.4.5` (2026-10-24)
+- **Latest**: `v0.4.6` (2026-11-16)
 - **Last commit**: 2026-11-16
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 586 · **Forks**: 64 · **Open issues**: 8 · **Contributors**: 6
+- **Stars**: 587 · **Forks**: 64 · **Open issues**: 8 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 24 · **Open PRs**: 1 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 101
+- **Releases**: 11 · **Merged PRs**: 25 · **Open PRs**: 1 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 102
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 9 | 1 | 0 | 0 | 5 |
-| last60d | 2026-09-17 | 2 | 9 | 1 | 0 | 0 | 9 |
-| 90d | 2026-08-18 | 4 | 14 | 1 | 0 | 0 | 16 |
-| last180d | 2026-05-20 | 6 | 19 | 1 | 1 | 0 | 30 |
-| 360d | 2025-11-21 | 10 | 24 | 1 | 8 | 0 | 95 |
-| last720d | 2024-11-26 | 10 | 24 | 1 | 8 | 0 | 101 |
+| 30d | 2026-10-18 | 3 | 10 | 1 | 0 | 0 | 6 |
+| last60d | 2026-09-18 | 3 | 10 | 1 | 0 | 0 | 10 |
+| 90d | 2026-08-19 | 5 | 15 | 1 | 0 | 0 | 17 |
+| last180d | 2026-05-21 | 7 | 20 | 1 | 1 | 0 | 31 |
+| 360d | 2025-11-22 | 11 | 25 | 1 | 8 | 0 | 96 |
+| last720d | 2024-11-27 | 11 | 25 | 1 | 8 | 0 | 102 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ASSET-INVENTORY.json](https://github.com/steipete/sag/releases/download/v0.4.5/ASSET-INVENTORY.json) | 1.6 KiB | `other` |
-| [RELEASE-NOTES.md](https://github.com/steipete/sag/releases/download/v0.4.5/RELEASE-NOTES.md) | 330 B | `other` |
-| [sag_0.4.5_darwin_amd64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.5/sag_0.4.5_darwin_amd64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
-| [sag_0.4.5_darwin_arm64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.5/sag_0.4.5_darwin_arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
-| [sag_0.4.5_linux_amd64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.5/sag_0.4.5_linux_amd64.tar.gz) | 3.1 MiB | `native/linux/x64` |
-| [sag_0.4.5_linux_arm64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.5/sag_0.4.5_linux_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
-| [sag_0.4.5_universal_darwin_all.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.5/sag_0.4.5_universal_darwin_all.tar.gz) | 6.1 MiB | `native/darwin/x64` |
-| [sag_0.4.5_windows_amd64.zip](https://github.com/steipete/sag/releases/download/v0.4.5/sag_0.4.5_windows_amd64.zip) | 3.2 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/steipete/sag/releases/download/v0.4.5/SHA256SUMS) | 838 B | `other` |
-| [SIGNING-MANIFEST.json](https://github.com/steipete/sag/releases/download/v0.4.5/SIGNING-MANIFEST.json) | 1.7 KiB | `other` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/sag/releases/download/v0.4.6/ASSET-INVENTORY.json) | 1.6 KiB | `other` |
+| [RELEASE-NOTES.md](https://github.com/steipete/sag/releases/download/v0.4.6/RELEASE-NOTES.md) | 414 B | `other` |
+| [sag_0.4.6_darwin_amd64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.6/sag_0.4.6_darwin_amd64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
+| [sag_0.4.6_darwin_arm64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.6/sag_0.4.6_darwin_arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
+| [sag_0.4.6_linux_amd64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.6/sag_0.4.6_linux_amd64.tar.gz) | 3.2 MiB | `native/linux/x64` |
+| [sag_0.4.6_linux_arm64.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.6/sag_0.4.6_linux_arm64.tar.gz) | 2.9 MiB | `native/linux/arm64` |
+| [sag_0.4.6_universal_darwin_all.tar.gz](https://github.com/steipete/sag/releases/download/v0.4.6/sag_0.4.6_universal_darwin_all.tar.gz) | 6.1 MiB | `native/darwin/x64` |
+| [sag_0.4.6_windows_amd64.zip](https://github.com/steipete/sag/releases/download/v0.4.6/sag_0.4.6_windows_amd64.zip) | 3.2 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/steipete/sag/releases/download/v0.4.6/SHA256SUMS) | 838 B | `other` |
+| [SIGNING-MANIFEST.json](https://github.com/steipete/sag/releases/download/v0.4.6/SIGNING-MANIFEST.json) | 1.7 KiB | `other` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for sag lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:25:57Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:25:05Z._
